@@ -31,3 +31,7 @@ Props are used to pass data from a parent component to a child component. State 
 
 useState is a React hook that is used to store and update data in a component. It gives us a state value and a function to update that value. In this project, I used useState for the selected technology stack, menu, technologies data, and loading state.
 
+4. What is the useEffect hook? Why do we use it? 
+
+useEffect is used to perform some actions after a component renders. It is useful for things like fetching data or running code when something changes. In this project, I used useEffect to load the technology data from the JSON file.
+
