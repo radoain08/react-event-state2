@@ -19,3 +19,6 @@ Dev Stack Builder is a simple React website where users can explore different de
 
 ## React Questions & Answers
 
+1. What is JSX? Why do we use it? 
+
+JSX is a syntax used in React that lets us write HTML-like code inside JavaScript. It makes the UI code easier to read and understand. We use JSX to create the structure of React components.
