@@ -43,4 +43,6 @@ useEffect is used to perform some actions after a component renders. It is usefu
  
  Conditional rendering means showing different content based on a condition. In my project, I used it to show a loading message while the JSON data is loading. I also used it to show an empty message when no technology has been added to the stack.
 
+ 7. How do you pass data from a parent component to a child component? How can a child send data back? 
  
+ A parent component can send data to a child component using props. The child can send data back by calling a function passed from the parent as a prop. This allows the parent component to handle the data or action from the child.
