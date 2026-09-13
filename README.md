@@ -27,3 +27,7 @@ JSX is a syntax used in React that lets us write HTML-like code inside JavaScrip
 
 Props are used to pass data from a parent component to a child component. State is used to store data that can change inside a component. Props are received from outside, while state is managed by the component itself.
 
+3. What is the useState hook? How does it work? 
+
+useState is a React hook that is used to store and update data in a component. It gives us a state value and a function to update that value. In this project, I used useState for the selected technology stack, menu, technologies data, and loading state.
+
