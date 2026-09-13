@@ -35,3 +35,6 @@ useState is a React hook that is used to store and update data in a component. I
 
 useEffect is used to perform some actions after a component renders. It is useful for things like fetching data or running code when something changes. In this project, I used useEffect to load the technology data from the JSON file.
 
+5. Why do we need a unique key for each item in a list?
+
+ A unique key helps React identify each item in a list. It helps React understand which item has changed, been added, or removed. In this project, I used the technology id as the key for the technology cards.
